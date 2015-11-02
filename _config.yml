@@ -1,0 +1,23 @@
+name: Test1234
+favicon: null
+layout_spectrum: 0.8826760859228671
+typography_spectrum: 0.504909246461466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8424207586795092
+  lightness: 0.0009841821156442165
+  saturation: 0.5220078730490059
+  rhythmicContrast: 0.15814509382471442
+purpose: []
